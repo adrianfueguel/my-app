@@ -1,0 +1,17 @@
+aside{
+    display: block;
+    float: left;
+    width: 20%;
+    background-color: aqua;
+    font-size: 30px;
+}
+main{    
+    float: left;
+    width: 80%;
+    background-color: darkgoldenrod;    
+}
+header,footer{ 
+    width: 100%;  
+    font-size: 30px;
+    background-color: blueviolet;
+}
